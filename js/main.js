@@ -1,4 +1,4 @@
-
+'use strict'
 window.addEventListener('load', function () {
 
     let input = document.getElementById('input');

@@ -21,7 +21,8 @@ window.addEventListener('load', function () {
             '(' : ')',
             '[' : ']',
             '{' : '}',
-            '<' : '>'
+            '<' : '>',
+            '1' : '2'
         };
 
         let stack = [];
